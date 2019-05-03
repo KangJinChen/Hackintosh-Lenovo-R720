@@ -12,3 +12,8 @@
 9. 独显（未驱动）
 
 如遇到问题可参考[黑果小兵的博客](https://blog.daliansky.net/)
+
+## 图片预览
+![系统信息](https://github.com/KangJinChen/Hackintosh-Lenovo-R720/blob/master/photo/systemInfo.jpg)
+![hacktool信息](https://github.com/KangJinChen/Hackintosh-Lenovo-R720/blob/master/photo/hacktool.jpg)
+![桌面](https://github.com/KangJinChen/Hackintosh-Lenovo-R720/blob/master/photo/desktop.jpg)
